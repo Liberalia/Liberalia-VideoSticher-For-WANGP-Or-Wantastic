@@ -1,0 +1,8 @@
+{
+  "name": "CPU Video Stitcher",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "Seamlessly stitch two videos together sequentially, side-by-side, or top-and-bottom entirely on CPU using FFmpeg.",
+  "date": "2026-05-27",
+  "wan2gp_version": "11.50"
+}

@@ -1,0 +1,1 @@
+# CPU Video Stitcher Plugin
