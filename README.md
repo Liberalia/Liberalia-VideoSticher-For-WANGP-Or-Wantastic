@@ -111,4 +111,4 @@ gif_filter = "...; [outv]split[gif1][gif2]; [gif1]palettegen[pal]; [gif2][pal]pa
 ---
 
 ## 📝 License
-This project is open-source and available under the MIT License. Feel free to copy, modify, and distribute it as needed!
+This project is open-source and available under the Apachie 2.0 License. Feel free to copy, modify, and distribute it as needed!
